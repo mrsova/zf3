@@ -24,5 +24,8 @@ return [
     'DoctrineORMModule',
     'Application',
     'Blog',
+    'Admin',
+
+
 
 ];
